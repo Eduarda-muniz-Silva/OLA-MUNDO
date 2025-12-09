@@ -1,2 +1,2 @@
-# OLA-MUNDO
-Primeiro repositorio versionado
+# Olá, MUNDO!
+Primeiro repositorio versionado da programadora.
